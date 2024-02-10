@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    background: darkslateblue;
+}
+
+header p{
+    text-align:left;
+    font-size:30px ;
+}
+
+header{
+    background-color:darkgreen;
+}
